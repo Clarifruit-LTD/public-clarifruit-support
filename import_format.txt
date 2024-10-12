@@ -1,0 +1,17 @@
+[{
+        "companyId": -890066,
+        "name": "HJXO3704",
+        "externalProduceId": "yd_ext_apple",
+        "externalVarietyId": "yd_ext_common_greeen_apple",
+        "externalStandardId": "string",
+        "creationTime": 1726749423841,
+        "creationTimeISO": "2024-09-19T12:37:03Z",
+        "state": "created",
+        "varietyId": 235,
+        "varietyName": "Common Orange",
+        "processId": 10958,
+        "processName": "Example Process",
+        "username": "yoel@clarifruit.com",
+        "inspectorEmail": "yoel@clarifruit.com",
+        "inspectorName": "Yoel"
+    }]
